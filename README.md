@@ -8,7 +8,7 @@ End-of-studies project at UTT (Université de Technologie de Troyes).
 
 ## Overview
 - Task: image denoising (restoring a clean image from a noisy one)
-- Model: U-Net [or diffusion model with U-Net backbone, if applicable]
+- Model: U-Net
 - Framework: PyTorch
 
 ## Getting Started
