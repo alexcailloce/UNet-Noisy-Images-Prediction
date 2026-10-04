@@ -3,6 +3,7 @@
 Deep learning model (U-Net, PyTorch) that reconstructs clean images from noisy inputs.
 
 End-of-studies project at UTT (Université de Technologie de Troyes).
+
 2024
 
 ## Overview
